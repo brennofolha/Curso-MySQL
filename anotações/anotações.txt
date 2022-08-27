@@ -1,0 +1,13 @@
+Curso MySQL #03 - Criando o primeiro Banco de Dados
+
+1 - Banco de dados contém tabelas e tabelas contém registros e registros são compostos por campos
+2 - o Mysql tem tipos primitivos
+3 - os tipos primitivos do MySQL separa tudo em 4 familias sendo elas: Numério, Data/Tempo, Literal, Espacial 
+====comandos====
+!CREATE DATABASE *nome do banco de dados*! - cria um banco de dados;
+!create table *nome da tabela* (
+	nome
+	idade
+	sexo...ETC
+
+);! - cria uma tabela;
